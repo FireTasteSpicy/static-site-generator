@@ -57,5 +57,6 @@ sh main.sh
 ```
 The generated static site will be located in the output directory.
 
-Purpose
+Purpose:
+
 This project demonstrates the principles of modular programming and file processing in Python. It serves as a practical example of building and managing static websites programmatically.
